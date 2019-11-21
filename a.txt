@@ -4,4 +4,6 @@ Line 2
 ----
 Line 3
 Fix bug di A
+---
+Fix bug B
 
